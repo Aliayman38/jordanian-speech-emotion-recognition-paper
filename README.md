@@ -98,30 +98,6 @@ The dataset is \*\*not included\*\* in this repository because it contains priva
 
 ```
 
-SER\_Project
-
-│
-
-├── ser\_model.py
-
-├── Speech\_Emotion\_Recognition\_for\_the\_Jordanian\_Arabic\_Dialect.pdf
-
-├── README.md
-
-├── .gitignore
-
-├── Picture2 (1).png
-
-├── Picture3 (2).png
-
-└── Picture4.png
-
-```
-
-
-
----
-
 
 
 \## Research Paper
